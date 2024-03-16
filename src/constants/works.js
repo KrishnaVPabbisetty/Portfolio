@@ -28,7 +28,7 @@ import fit from "../images/works/Fit.png"
 
 const web = [
     {title:"Personal website", image: site, description:"My portfolio website", stack: "React.js, Tailwind CSS, Vite", duration: 0.13, link: "https://github.com/Georgelafayen/Personal-website"},
-    {title:"E-shop website (Demo)",image: ecommerce, description:"An e-commerce demo website", stack: "React.js, Tailwind CSS, Vite", duration: 0.12, link: "https://georgelafayen.github.io/E-commerce-prototype/"},
+    {title:"Movie Booking website",image: showiz, description:"A movie booking website", stack: "React.js, Tailwind CSS, Vite", duration: 0.12, link: "https://georgelafayen.github.io/E-commerce-prototype/"},
     {title:"Company website", image: tea, description:"Site created for the company Tea s.r.l.", stack: "Wordpress, Elementor", duration: 0.1, link: "https://www.teacz.com/"},
 ]
 

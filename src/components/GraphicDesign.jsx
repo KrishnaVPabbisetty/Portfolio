@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import works from "../constants/works";
 import Carousel from "nuka-carousel";
 import { motion } from "framer-motion";
