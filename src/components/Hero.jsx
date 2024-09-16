@@ -66,7 +66,12 @@ const Hero = () => {
               </h2>
               <div className=" text-neutral-800 text-[20px] font-semibold md:text-[24px] lg:text-3xl">
                 <Typewriter
-                  words={["Backend Developer", "Frontend Developer"]}
+                  words={[
+                    "Backend Developer",
+                    "Frontend Developer",
+                    "Full-stack Developer",
+                    "Data Analyst",
+                  ]}
                   typeSpeed={50}
                   deleteSpeed={50}
                   delaySpeed={2000}

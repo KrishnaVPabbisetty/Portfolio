@@ -25,6 +25,8 @@ const WebDev = () => {
                 <a
                   className="flex items-center gap-2 text-[20px] md:text-2xl font-bold cursor-pointer"
                   href={project.link}
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <img className="max-w-full rounded-md" src={project.image} />
                 </a>

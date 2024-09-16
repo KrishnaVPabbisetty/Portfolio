@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer>
       {/* left-side social */}
-      <div className="hidden xxl:flex fixed bottom-[160px] -left-[100px] rotate-90">
+      <div className="hidden xxl:flex fixed bottom-[160px] -left-[136px] rotate-90">
         <div className="flex items-center gap-3 text-[#7c7cb3] cursor-pointer">
           <a
             href="https://www.linkedin.com/in/krishnavarshithpabbisetty/"
@@ -55,9 +55,9 @@ const Footer = () => {
       </div>
 
       {/* right-side email */}
-      <div className=" hidden xxl:flex fixed bottom-[190px] right-[-130px] rotate-90">
+      <div className=" hidden xxl:flex fixed bottom-[190px] right-[-190px] rotate-90">
         <div className="flex items-center gap-3 text-[#7c7cb3]">
-          <p className="font-semibold">krishnavarshith.pabbisetty@sjsu.edu</p>
+          <p className="font-semibold">krishnavpabbisetty@gmail.com</p>
           <hr className="w-[150px] border-2 border-gray-300" />
         </div>
       </div>

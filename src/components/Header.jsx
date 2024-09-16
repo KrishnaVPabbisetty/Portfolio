@@ -8,7 +8,7 @@ import { NavLink, Link } from "react-router-dom";
 import {
   FaLinkedin,
   FaGithub,
-  FaInstagram,
+  // FaInstagram,
   //FaItchIo
 } from "react-icons/fa";
 import Logo from "../images/Varshith_Logo.jpeg";
@@ -99,26 +99,26 @@ const Header = () => {
           </ul>
           <div className="flex gap-5 text-slate-200">
             <a
-              href="https://github.com/VarshithPabb1setty"
+              href="https://github.com/KrishnaVPabbisetty"
               target="_blank"
               rel="noreferrer"
             >
               <FaGithub size={25} />
             </a>
             <a
-              href="https://www.linkedin.com/in/krishnavarshithpabbisetty/"
+              href="https://www.linkedin.com/in/krishnavpabbisetty/"
               target="_blank"
               rel="noreferrer"
             >
               <FaLinkedin size={25} />
             </a>
-            <a
+            {/* <a
               href="https://www.instagram.com/varshith.pabbisetty/"
               target="_blank"
               rel="noreferrer"
             >
               <FaInstagram size={25} />
-            </a>
+            </a> */}
             {/* <a href="https://lafayenbros.itch.io/">
               <FaItchIo size={25} />
             </a> */}

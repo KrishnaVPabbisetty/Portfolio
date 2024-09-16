@@ -51,11 +51,16 @@ const Hero2 = () => {
                 whileInView={"show"}
                 viewport={{ once: true, amount: 0.7 }}
               >
-                I am a constantly evolving web developer passionate about
-                designing captivating web solutions with great attention to
-                detail. I also enjoy developing 2d games and applications for
-                edutainment and gamification, blending creativity with
-                technology.
+                Passionate software engineer with a strong foundation in
+                developing innovative solutions to complex problems. I thrive in
+                fast-paced environments and enjoy tackling challenging projects
+                that push the boundaries of technology. As a curious learner and
+                problem solver, I am eager to contribute my skills and
+                enthusiasm to dynamic teams, driving impactful projects forward.
+                My approachable nature and ability to articulate technical
+                concepts ensure effective communication and collaboration.
+                Always exploring new technologies, I believe every challenge is
+                an opportunity to grow.
               </motion.p>
             </div>
             {/*cv button*/}

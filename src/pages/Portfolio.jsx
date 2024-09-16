@@ -1,12 +1,12 @@
 // import React, {useEffect} from "react";
 import { motion } from "framer-motion";
 import { fadeIn } from "../utils/variants";
-import Multimedia from "../components/Multimedia";
-import ItchGames from "../components/ItchGames";
+// import Multimedia from "../components/Multimedia";
+// import ItchGames from "../components/ItchGames";
 import WebDev from "../components/WebDev";
 import GraphicDesign from "../components/GraphicDesign";
 import TextSpan from "../utils/textSpan";
-import {useEffect} from 'react';
+import { useEffect } from "react";
 
 const Projects = () => {
   const name = "My projects.".split("");
@@ -35,8 +35,8 @@ const Projects = () => {
             })}
           </motion.div>
           <WebDev />
-          <Multimedia />
-          <ItchGames />
+          {/* <Multimedia /> */}
+          {/* <ItchGames /> */}
           <GraphicDesign />
         </div>
       </section>
