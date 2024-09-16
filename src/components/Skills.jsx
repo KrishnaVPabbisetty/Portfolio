@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import skills from "../constants/skills";
 import { motion } from "framer-motion";
 import { fadeIn } from "../utils/variants";
