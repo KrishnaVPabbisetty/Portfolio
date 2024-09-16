@@ -13,21 +13,21 @@ import seek from "../images/works/Animal-Detection-Apps.png";
 import spotify from "../images/works/spotify.png";
 // import ecommerce from "../images/works/ecommerce.png";
 
-import blackhorse from "../images/works/BlackHorse.jpg";
-import caffedellearti from "../images/works/CaffeDelleArti.png";
-import sam from "../images/works/Sam.png";
-import lehibou from "../images/works/LeHibou.jpg";
-import magnus from "../images/works/Magnus.png";
-import friday from "../images/works/Friday.png";
-import marvanza from "../images/works/Marvanza.png";
+// import blackhorse from "../images/works/BlackHorse.jpg";
+// import caffedellearti from "../images/works/CaffeDelleArti.png";
+// import sam from "../images/works/Sam.png";
+// import lehibou from "../images/works/LeHibou.jpg";
+// import magnus from "../images/works/Magnus.png";
+// import friday from "../images/works/Friday.png";
+// import marvanza from "../images/works/Marvanza.png";
 
-import choice from "../images/works/Choiches.png";
-import leaf from "../images/works/Leaf.png";
-import hands from "../images/works/Handshake.png";
-import manMiddle from "../images/works/ManMiddle.png";
-import manNowhere from "../images/works/ManNowhere.png";
-import touch from "../images/works/Touch.png";
-import fit from "../images/works/Fit.png";
+// import choice from "../images/works/Choiches.png";
+// import leaf from "../images/works/Leaf.png";
+// import hands from "../images/works/Handshake.png";
+// import manMiddle from "../images/works/ManMiddle.png";
+// import manNowhere from "../images/works/ManNowhere.png";
+// import touch from "../images/works/Touch.png";
+// import fit from "../images/works/Fit.png";
 
 const web = [
   {
@@ -36,7 +36,7 @@ const web = [
     description: "My portfolio website",
     stack: "React.js, Tailwind CSS, Vite",
     duration: 0.13,
-    link: "https://github.com/VarshithPabb1setty/Portfolio",
+    link: "https://github.com/KrishnaVPabbisetty/Portfolio",
   },
   {
     title: "Showiz",
@@ -110,26 +110,26 @@ const web = [
 //   },
 // ];
 
-const design = [
-  {
-    title: "Logo designs",
-    image: [blackhorse, caffedellearti, sam, lehibou, magnus, marvanza, friday],
-    description: "Some logos made for bands, associations and businesses",
-    stack: "Photoshop, Illustrator",
-    duration: 0.2,
-  },
-  {
-    title: "Compositing",
-    image: [hands, fit, leaf, choice, manMiddle, manNowhere, touch],
-    description: "Some compositing work",
-    stack: "Photoshop, Illustrator",
-    duration: 0.21,
-  },
-];
+// const design = [
+//   {
+//     title: "Logo designs",
+//     image: [blackhorse, caffedellearti, sam, lehibou, magnus, marvanza, friday],
+//     description: "Some logos made for bands, associations and businesses",
+//     stack: "Photoshop, Illustrator",
+//     duration: 0.2,
+//   },
+//   {
+//     title: "Compositing",
+//     image: [hands, fit, leaf, choice, manMiddle, manNowhere, touch],
+//     description: "Some compositing work",
+//     stack: "Photoshop, Illustrator",
+//     duration: 0.21,
+//   },
+// ];
 
 export default {
   // multimedia,
   // itchGames,
   web,
-  design,
+  // design,
 };

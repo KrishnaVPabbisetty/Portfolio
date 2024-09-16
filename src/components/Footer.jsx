@@ -24,7 +24,7 @@ const Footer = () => {
             />
           </a>
           <a
-            href="https://github.com/VarshithPabb1setty"
+            href="https://github.com/KrishnaVPabbisetty"
             target="_blank"
             rel="noreferrer"
           >

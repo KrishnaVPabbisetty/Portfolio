@@ -4,7 +4,7 @@ import { fadeIn } from "../utils/variants";
 // import Multimedia from "../components/Multimedia";
 // import ItchGames from "../components/ItchGames";
 import WebDev from "../components/WebDev";
-import GraphicDesign from "../components/GraphicDesign";
+// import GraphicDesign from "../components/GraphicDesign";
 import TextSpan from "../utils/textSpan";
 import { useEffect } from "react";
 
@@ -37,7 +37,7 @@ const Projects = () => {
           <WebDev />
           {/* <Multimedia /> */}
           {/* <ItchGames /> */}
-          <GraphicDesign />
+          {/* <GraphicDesign /> */}
         </div>
       </section>
     </main>
