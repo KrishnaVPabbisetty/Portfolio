@@ -68,6 +68,7 @@ const web = [
     description: "Predicting song success using ML",
     stack: "Pandas, Numpy, Matplotlib, Seaborn",
     duration: 0.14,
+    link: "",
   },
 ];
 
